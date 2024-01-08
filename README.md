@@ -1,16 +1,13 @@
 ### Hi there 👋
+I am Nivetha Muthusamy,a blooming Software developer.Learning new things is what drives me to be a lifelong learner.
 
-<!--
-**nivi0304/nivi0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔭  currently working 
+  + on something cool.
+### 🌱 currently learning
+  + enrolled in a course for Java Full Stack Developer.
+### 🔧 Skills & Technologies
+  + **Languages** *Java*.
+  + **Web Development** *HTML*,*CSS*.
+  + **Tools** *Git*,*Github*,*Android Studio*,*VS code*.
+- 📫 How to reach me:
 -->
