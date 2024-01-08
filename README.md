@@ -16,5 +16,5 @@ I am Nivetha Muthusamy,a blooming Software developer.Learning new things is what
      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" **alt="Vs code" width="40" height="40"/>
 </div>
-- 📫 How to reach me:[Nivetha Muthusamy](nivethamuthu.in@gmail.com)
+
 
